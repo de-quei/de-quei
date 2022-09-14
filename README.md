@@ -23,6 +23,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=file:///C:/Users/User/Downloads/c.svg&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Html+Css+Js-E34F26?style=flat-square&logo=html5&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=ffffff"/>
+  <h3>Tool</h3>
+  ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
+
   <hr>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=150&section=footer" />
 
