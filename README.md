@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 <h4>NEW MEDIA SOFTWARE</h4>
 <a href="https://www.instagram.com/de_quei/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/de-quei-EF2D5E?style=flat&logo=appveyor&logoColor=EF2D5E"/></a>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=150&section=header" />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=de-quei&show_icons=true&algoria=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=de-quei&show_icons=true&them=algoria)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=150&section=footer" />
 
