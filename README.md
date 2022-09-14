@@ -1,4 +1,4 @@
-### Hi there 👋
+### ABOUT ME👋
 
 <!--
 **de-quei/de-quei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
+<hr>
+<h3>MIRIM MEISTER HIGH SCHOOL</h3>
+<h4>NEW MEDIA SOFTWARE</h4>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0000808&height=150&section=header" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0000808&height=150&section=footer" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=de-quei)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=de-quei&hide=contribs,prs&show_icons=true&theme=beige)
+
