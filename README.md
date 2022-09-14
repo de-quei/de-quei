@@ -1,4 +1,4 @@
-### ABOUT ME👋
+## ABOUT ME👋
 
 <!--
 **de-quei/de-quei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,14 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-<hr>
 <h3>MIRIM MEISTER HIGH SCHOOL</h3>
 <h4>NEW MEDIA SOFTWARE</h4>
 <hr>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=150&section=header" />
-  <h4>Studying</h4>
-  <img src="https://img.shields.io/badge/Java-4169E1?style=flat-square&logo=java8&logoColor=ffffff"/><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-    square&logo=file:///C:/Users/User/Downloads/c.svg&logoColor=ffffff"/><img src="https://img.shields.io/badge/Html+Css+Js-E34F26?style=flat-square&logo=html5&logoColor=ffffff"/><img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=ffffff"/>
+  <h3>Studying</h3>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=file:///C:/Users/User/Downloads/c.svg&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Html+Css+Js-E34F26?style=flat-square&logo=html5&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=ffffff"/>
   <hr>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=de-quei)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=150&section=footer" />
 
