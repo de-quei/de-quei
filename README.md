@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 <hr>
 <h3>MIRIM MEISTER HIGH SCHOOL</h3>
 <h4>NEW MEDIA SOFTWARE</h4>
-<a href="https://www.instagram.com/de_quei/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/de-quei-EF2D5E?style=flat&logo=appveyor&logoColor=EF2D5E"/></a>
+<hr>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=150&section=header" />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=de-quei&show_icons=true&theme=graywhite)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=de-quei)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=150&section=footer" />
 
