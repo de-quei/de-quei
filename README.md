@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 <h4>NEW MEDIA SOFTWARE</h4>
 <hr>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=150&section=header" />
+  <h4>Studying</h4>
+  <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=java&logoColor=4169E1"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=150&section=footer" />
 
