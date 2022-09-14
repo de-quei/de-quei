@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=150&section=header" />
   <h3>Studying</h3>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=file:///C:/Users/User/Downloads/c.svg&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Html+Css+Js-E34F26?style=flat-square&logo=html5&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=ffffff"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=150&section=footer" />
