@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 <hr>
 <h3>MIRIM MEISTER HIGH SCHOOL</h3>
 <h4>NEW MEDIA SOFTWARE</h4>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0000808&height=150&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0000808&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=150&section=footer" />
 
