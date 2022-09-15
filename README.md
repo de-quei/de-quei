@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <h3>MIRIM MEISTER HIGH SCHOOL</h3>
 <h4>NEW MEDIA SOFTWARE</h4>
 <hr>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
   <h3 align="center"><b>🛠 Studying 🛠</b></h3>
 </br>
 <p align="center">
@@ -32,5 +33,7 @@ Here are some ideas to get you started:
 </br>
 <p align = "center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fde-quei&count_bg=%23EFDFB3&title_bg=%230815A6&icon=devrant.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  </br>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
 
