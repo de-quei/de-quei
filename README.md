@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h4>NEW MEDIA SOFTWARE</h4>
 <hr>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-  <h3 align="center"><b>🛠 Studying 🛠</b></h3>
+  <h3 align="center"><b>✏️ Studying ✏️</b></h3>
     </br>
   <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
    </br>
    <hr>
-    <h3 align="center"><b>✏️ Tools ✏️</b></h3>
+    <h3 align="center"><b>🛠 Tools 🛠</b></h3>
      <p align="center">
      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a> &nbsp
      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> &nbsp
