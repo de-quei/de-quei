@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 --> 
 <h3>MIRIM MEISTER HIGH SCHOOL</h3>
 <h4>NEW MEDIA SOFTWARE</h4>
-<hr>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
   <h3 align="center"><b>✏️ Studying ✏️</b></h3>
     </br>
