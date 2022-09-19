@@ -29,7 +29,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
    </br>
-   <hr>
     <h3 align="center"><b>🛠 Tools 🛠</b></h3>
      <p align="center">
      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a> &nbsp
@@ -38,14 +37,12 @@ Here are some ideas to get you started:
      </br>
      <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a> &nbsp
      <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a> &nbsp
-     
-  <hr>
   <h3 align ="center"><b>📲 Contact Me! 📲</b></h3>
  <p align = "center">
   <a href="https://www.instagram.com/de_quei/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="https://blog.naver.com/khjbest1226" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
   
-  <hr>
+  
   <h3 align ="center"><b>👥 Visitor 👥</b></h3>
     </br>
       <p align = "center">
