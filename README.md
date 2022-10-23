@@ -17,3 +17,4 @@ Here are some ideas to get you started;
 I'm student of Mirim Meister high school in SEOUL!</br>
 🌱 I’m currently learning Java, C </br>
 📫 How to reach me: s2208@e-mirim.hs.kr
+⚡ Fun fact: I want to be a beckend developer!
