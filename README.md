@@ -16,7 +16,7 @@ Here are some ideas to get you started;
 ⚡ Fun fact: I want to be a beckend developer!
 --> 
 I'm student of Mirim Meister high school in SEOUL!</br>
-🌱 I’m currently learning JAVA, C! </br>
+🌱 I’m currently learning JAVA, C, AI, MYSQL! </br>
 📫 How to reach me: s2208@e-mirim.hs.kr </br>
 🤔 Going to learn ... PHP, JS, C++, Data Structure. </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=de-quei)](https://github.com/anuraghazra/github-readme-stats) </br>
