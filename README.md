@@ -20,5 +20,6 @@ I'm student of Mirim Meister high school in SEOUL!</br>
 🌱 I’m currently learning JAVA, C, AI, MYSQL! </br>
 📫 How to reach me: s2208@e-mirim.hs.kr </br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=de-quei&layout=compact)](https://github.com/de-quei/github-readme-stats)
 
 
