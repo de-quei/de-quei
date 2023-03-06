@@ -14,12 +14,14 @@ Here are some ideas to get you started;
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ⚡ Fun fact: I want to be a beckend developer!
+⚡ Fun fact: I want to be a Japan developer!
 🤔 Going to learn ... PHP, JS, C++, Data Structure. </br>
 --> 
 I'm student of Mirim Meister high school in SEOUL!</br>
 🌱 I’m currently learning JAVA / C++ / PHP / DS / WSM / MYSQL! </br>
+💬 Ask me about Japanese...but i'm Korean!
 📫 How to reach me: s2208@e-mirim.hs.kr </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=de-quei&layout=compact)](https://github.com/de-quei/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=de-quei&layout=compact)](https://github.com/de-quei/github-readme-stats)-->
 
 
