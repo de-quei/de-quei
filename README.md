@@ -17,10 +17,10 @@ Here are some ideas to get you started;
 ⚡ Fun fact: I want to be a Japan developer!
 🤔 Going to learn ... PHP, JS, C++, Data Structure. </br>
 --> 
-私は美林女子情報科学2年生ですbr>
-🌱 現在JAVA / C++ / PHP / DS / WSM / MYSQLなどを学んでいます</br>
-💬 Ask me about Japanese...but i'm Korean!</br>
-📫 ここに連絡してください → s2208@e-mirim.hs.kr </br>
+私は美林女子情報科学2年生です!<br>
+🌱 現在JAVA / C++ / PHP / DS / WSM / MYSQLなどを学んでいます.</br>
+💬 ...でも私は韓国人です!</br>
+📫 ここに連絡してください! → s2208@e-mirim.hs.kr </br>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=de-quei&layout=compact)](https://github.com/de-quei/github-readme-stats)-->
 
