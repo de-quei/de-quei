@@ -18,7 +18,7 @@ Here are some ideas to get you started;
 🤔 Going to learn ... PHP, JS, C++, Data Structure. </br>
 --> 
 私は美林女子情報科学2年生です!<br>
-🌱 現在JAVA / C++ / PHP / DS / WSM / MYSQLなどを学んでいます.</br>
+🌱 現在, JAVA / C++ / PHP / DS / WSM / MYSQLなどを学んでいます.</br>
 💬 ...でも私は韓国人です!</br>
 📫 ここに連絡してください! → s2208@e-mirim.hs.kr </br>
 
