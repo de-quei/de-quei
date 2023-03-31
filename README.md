@@ -1,4 +1,4 @@
-## ABOUT ME👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Helloooo..!+It's+me,+Hyunji!;Welcome+to+my+github♣)](https://git.io/typing-svg)
 
 <!--
 **de-quei/de-quei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
