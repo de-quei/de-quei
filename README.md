@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kiwi+Maru&pause=1000&color=F7209C&width=435&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81%E7%A7%81%E3%81%A7%E3%81%99%2C+%E3%82%AD%E3%83%A0%E3%83%BB%E3%83%92%E3%83%A7%E3%83%B3%E3%82%B8!;%E7%A7%81%E3%81%AE+%E3%82%AE%E3%83%83%E3%83%88%E3%83%8F%E3%83%96%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&pause=1000&color=F7209C&width=435&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81%E7%A7%81%E3%81%A7%E3%81%99%2C+%E3%82%AD%E3%83%A0%E3%83%BB%E3%83%92%E3%83%A7%E3%83%B3%E3%82%B8!;%E7%A7%81%E3%81%AE+%E3%82%AE%E3%83%83%E3%83%88%E3%83%8F%E3%83%96%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81)](https://git.io/typing-svg)
 
 <!--
 **de-quei/de-quei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
