@@ -1,5 +1,5 @@
 
-## 👋 백엔드 개발자가 되고싶은 김현지입니다!  
+## 👋 백엔드도 아닌것이.. 프론트도 아닌것이.. 그 사이 어딘가 
 
 ### Interest
 <code><img height="35" src="https://skills.thijs.gg/icons?i=java&theme=light"></code>
