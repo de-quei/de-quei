@@ -7,10 +7,15 @@
 
 ### Interest
 <code><img height="35" src="https://skills.thijs.gg/icons?i=java&theme=light"></code>
+<code><img height="35" src="https://skills.thijs.gg/icons?i=kotlin&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=php&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=mysql&theme=light"></code>
+
+### Tool
+<code><img height="35" src="https://skills.thijs.gg/icons?i=eclipse&theme=light"></code>
+<code><img height="35" src="https://skills.thijs.gg/icons?i=vscode&theme=light"></code>
+<code><img height="35" src="https://skills.thijs.gg/icons?i=androidstudio&theme=light"></code>
 
 ### More want
 <code><img height="35" src="https://skills.thijs.gg/icons?i=spring&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=go&theme=light"></code>
-<code><img height="35" src="https://skills.thijs.gg/icons?i=flutter&theme=light"></code>
