@@ -20,6 +20,7 @@
   <code><img height="35" src="https://skills.thijs.gg/icons?i=eclipse&theme=light"></code>
   <code><img height="35" src="https://skills.thijs.gg/icons?i=vscode&theme=light"></code>
   <code><img height="35" src="https://skills.thijs.gg/icons?i=androidstudio&theme=light"></code>
+  <code><img height="35" src="https://skills.thijs.gg/icons?i=github&theme=light"></code>
 </details>
 
 <details>
