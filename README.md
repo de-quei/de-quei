@@ -25,7 +25,7 @@
 
 <details>
   <summary>
-  끌리누
+  이것도 재밋겟당
   </summary>
   <br>
   <code><img height="35" src="https://skills.thijs.gg/icons?i=spring&theme=light"></code>
