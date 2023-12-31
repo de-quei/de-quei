@@ -25,10 +25,11 @@
 
 <details>
   <summary>
-  이것도 재밋겟당
+  눈독 들이는 중
   </summary>
   <br>
   <code><img height="35" src="https://skills.thijs.gg/icons?i=spring&theme=light"></code>
   <code><img height="35" src="https://skills.thijs.gg/icons?i=django&theme=light"></code>
   <code><img height="35" src="https://skills.thijs.gg/icons?i=go&theme=light"></code>
+  <code><img height="35" src="https://skills.thijs.gg/icons?i=laravel&theme=light"></code>
 </details>
