@@ -6,8 +6,8 @@
   아 재밌다
   </summary>
   <br>
-  <code><img height="35" src="https://skills.thijs.gg/icons?i=java&theme=light"></code>
   <code><img height="35" src="https://skills.thijs.gg/icons?i=kotlin&theme=light"></code>
+  <code><img height="35" src="https://skills.thijs.gg/icons?i=flutter&theme=light"></code>
   <code><img height="35" src="https://skills.thijs.gg/icons?i=php&theme=light"></code>
   <code><img height="35" src="https://skills.thijs.gg/icons?i=python&theme=light"></code>
 </details>
