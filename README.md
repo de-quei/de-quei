@@ -33,3 +33,6 @@
   <code><img height="35" src="https://skills.thijs.gg/icons?i=go&theme=light"></code>
   <code><img height="35" src="https://skills.thijs.gg/icons?i=laravel&theme=light"></code>
 </details>
+
+와 떴다! 👇<br>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=de-quei)](https://velog.io/@<?khj?>)
