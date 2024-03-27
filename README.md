@@ -9,6 +9,7 @@
   <code><img height="35" src="https://skills.thijs.gg/icons?i=flutter&theme=light"></code>
   <code><img height="35" src="https://skills.thijs.gg/icons?i=dart&theme=light"></code>
   <code><img height="35" src="https://skills.thijs.gg/icons?i=nodejs&theme=light"></code>
+  <code><img height="35" src="https://skills.thijs.gg/icons?i=django&theme=light"></code>
   <code><img height="35" src="https://skills.thijs.gg/icons?i=php&theme=light"></code>
 </details>
 
