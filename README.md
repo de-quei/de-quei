@@ -3,7 +3,7 @@
 
 <details>
   <summary>
-    흥미있어요!
+    관심이 많아 공부하고 있어요!
   </summary>
   <br>
   <code><img height="35" src="https://skills.thijs.gg/icons?i=flutter&theme=light"></code>
