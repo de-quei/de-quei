@@ -8,5 +8,4 @@
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-#### 여기서 공부해요 👇<br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=de-quei)](https://velog.io/@de-quei/posts)
+<a href="https://velog.io/@de-quei/posts" type="_blank">여기서</a> 공부해요
