@@ -1,4 +1,5 @@
-### 고3에 플러터에 빠져버린 여자
+### 고3에 플러터에 빠져버린 여자 
+~~?? : 난 죽어도 앱개발자는 안할거야 ㅋㅋ~~
 
 ####  ♥ Love ya!
 ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
