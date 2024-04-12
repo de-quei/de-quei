@@ -1,17 +1,11 @@
+### 고3에 플러터에 빠져버린 여자
 
-#### 인생업적이 EBS장학퀴즈
+####  ♥ Love ya!
+![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)<br>
+![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-<details>
-  <summary>
-    관심이 많아 공부하고 있어요!
-  </summary>
-  <br>
-  <code><img height="35" src="https://skills.thijs.gg/icons?i=flutter&theme=light"></code>
-  <code><img height="35" src="https://skills.thijs.gg/icons?i=dart&theme=light"></code>
-  <code><img height="35" src="https://skills.thijs.gg/icons?i=nodejs&theme=light"></code>
-  <code><img height="35" src="https://skills.thijs.gg/icons?i=django&theme=light"></code>
-  <code><img height="35" src="https://skills.thijs.gg/icons?i=php&theme=light"></code>
-</details>
-
-#### 와 떴다! 👇<br>
+#### 여기서 공부해요 👇<br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=de-quei)](https://velog.io/@de-quei/posts)
