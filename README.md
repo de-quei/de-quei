@@ -7,4 +7,4 @@
 [![My Skills](https://skillicons.dev/icons?i=flutter,next,tailwind,vue,django)](https://skillicons.dev)
 
 <a href="https://velog.io/@de-quei/posts" type="_blank">여기서</a> 공부하고,
-<a href="https://github.com/suk-6" type="_blank">얘는</a> 제꺼에요.
+<a href="https://github.com/suk-6" type="_blank">얘는</a> 제꺼에요...
