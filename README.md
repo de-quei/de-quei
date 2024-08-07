@@ -1,5 +1,5 @@
 > [!Note]
-> 초당옥수수가 철 지낫어요.. 흐엉ㅇ엉ㅇ
+> 초당옥수수 철 지낫대요.. 흐엉ㅇ엉ㅇ
 
 #### 와앙 재밋다
 [![My Skills](https://skillicons.dev/icons?i=flutter,next,tailwind,vue,django)](https://skillicons.dev)
