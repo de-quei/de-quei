@@ -1,10 +1,8 @@
-> [!NOTE]
-> - 미림 마이스터고등학교 뉴미디어소프트웨어과 13기 ( 2025.01 졸업예정 )
-> - 카카오벤처스 (주)원지랩스 인턴 ( 2024.08 )
+> [!Note]
+> 초당옥수수가 철이에요 !
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png" alt="Exploding Head" width="25" height="25" /> ...
-
+#### 와앙 재밋다
 [![My Skills](https://skillicons.dev/icons?i=flutter,next,tailwind,vue,django)](https://skillicons.dev)
 
-<a href="https://velog.io/@de-quei/posts" type="_blank">여기서</a> 공부하고,
-<a href="https://github.com/suk-6" type="_blank">얘는</a> 제꺼에요...
+<a href="https://velog.io/@de-quei/posts">여기서</a> 공부하고,
+<a href="https://github.com/suk-6">얘</a>는 제꺼에요...
