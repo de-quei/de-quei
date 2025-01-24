@@ -1,5 +1,5 @@
 > [!Note]
-> <a href="https://github.com/suk-6">No issue!</a>
+> No issue! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Blowing%20a%20Kiss.png" alt="Face Blowing a Kiss" width="20" height="20" />
 
 #### 와앙 재밋다
 [![My Skills](https://skillicons.dev/icons?i=flutter,next,tailwind,vue,rails)](https://skillicons.dev)
