@@ -16,10 +16,3 @@
 ### Tech Stack (only right now)
 [![My Skills](https://skillicons.dev/icons?i=flutter,next,tailwind,raspberrypi)](https://skillicons.dev)
 
-### My Space
-<div height="10px"/>
-<div>
-<a href="https://velog.io/@de-quei/posts">
-  <img height="260px" src="https://velog-github-badge.vercel.app/badge/de-quei?theme=dark&posts=3"/>
-</a>
-</div>
