@@ -5,7 +5,7 @@
 - [1zLabs](https://1zlabs.com/) | FullStack Developer Intern ( 2024.08 - 2024.10 )
 
 ### Activity
-- [2024 ITSHOW](https://www.e-mirim.hs.kr/main.do) Graduation Exhibition ( 2024.06.20 - 2024.06.22 )
+- [2024 ITSHOW](https://www.e-mirim.hs.kr/main.do) | Graduation Exhibition ( 2024.06.20 - 2024.06.22 )
 - [Japan Global Internship](https://www.e-mirim.hs.kr/main.do) | UI/UX class, Web Develop ( 2024.01.06 - 2024.01.28 )
 - [EBS Scholarship Quiz, Industry Talent Edition 1185](https://home.ebs.co.kr/janghakquiz/board/18/10092926/view/30000169975?c.page=2&startPage=20&hmpMnuId=101&sortType=&searchCondition=&searchConditionValue=0&sortTypeValue=0&searchKeywordValue=0&searchKeyword=&bbsId=10092926&) | Runner-Up ( 2023.04.27 )
 
