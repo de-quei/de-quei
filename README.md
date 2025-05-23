@@ -14,6 +14,6 @@
 ### Education
 - [Mirim Girls Information Science High School](https://www.e-mirim.hs.kr/main.do) | NewMedia Software ( 2022.03 - 2025.01 )
 
-### Tech Stack (only right now)
-[![My Skills](https://skillicons.dev/icons?i=flutter,next,tailwind,raspberrypi)](https://skillicons.dev)
+### Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=flutter,next,tailwind,web)](https://skillicons.dev)
 
