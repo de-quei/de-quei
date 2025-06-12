@@ -3,7 +3,7 @@
 I hope you like it,, 👉 [surfit](https://my.surfit.io/w/1636092313)
 
 ### Working
-- [FOX EDU - Commnunication officer](https://foxedu.kr/index.do) | Cross-Flatform Developer ( 2025.04 ~ )
+- [FOX EDU - Commnunication officer](https://www.foxcom.kr/) | Cross-Flatform Developer ( 2025.04 ~ )
 - [Prater](https://prater.co.kr/) | Cross-Flatform Developer ( 2024.12 - 2025.04 )
 - [1zLabs](https://1zlabs.com/) | FullStack Developer Intern ( 2024.08 - 2024.10 )
 
