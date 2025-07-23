@@ -12,7 +12,7 @@
 
 
 ### Education
-- [Hanyang Cyber Univ. - Department of Defense Convergence Technology](https://www.hycu.ac.kr/user/maSnEx/goMain/30171/index.do) | bachelor's degree ( 2025.09.01 - ing )
+- [Hanyang Cyber Univ. - Defense Convergence Technology](https://www.hycu.ac.kr/user/maSnEx/goMain/30171/index.do) | bachelor's degree ( 2025.09.01 - ing )
 - [Mirim Girls Information Science High School](https://www.e-mirim.hs.kr/main.do) | NewMedia Software ( 2022.03 - 2025.01 )
 
 ### Tech Stack
