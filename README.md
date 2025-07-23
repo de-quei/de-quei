@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=141827&height=70&section=header&text=KimHyunji&fontSize=20&fontColor=ffffff)
 
-I hope you like it,, 👉 [surfit](https://my.surfit.io/w/1636092313)
-
 ### Working
 - [FOX EDU - Commnunication officer](https://www.foxcom.kr/) | Cross-Flatform Developer ( 2025.04 ~ )
 - [Prater](https://prater.co.kr/) | Cross-Flatform Developer ( 2024.12 - 2025.04 )
@@ -14,6 +12,7 @@ I hope you like it,, 👉 [surfit](https://my.surfit.io/w/1636092313)
 
 
 ### Education
+- [Hanyang Cyber Univ. - Department of Defense Convergence Technology](https://www.hycu.ac.kr/user/maSnEx/goMain/30171/index.do) | bachelor's degree ( 2025.09.01 - ing )
 - [Mirim Girls Information Science High School](https://www.e-mirim.hs.kr/main.do) | NewMedia Software ( 2022.03 - 2025.01 )
 
 ### Tech Stack
