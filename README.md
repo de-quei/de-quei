@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=141827&height=70&section=header&text=KimHyunji&fontSize=20&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=141827&height=70&section=header&text=Hyunji%20Kim&fontSize=20&fontColor=ffffff)
 
 ### Working
 - [FOX Communication (Fox Edu's affiliate)](https://www.foxcom.kr/) | Cross-Flatform Developer ( 2025.04 ~ )
