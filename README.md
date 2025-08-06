@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=141827&height=70&section=header&text=Hyunji%20Kim&fontSize=20&fontColor=ffffff)
 
 ### Working
-- [FOX Communication (Fox Edu's affiliate)](https://www.foxcom.kr/) | Cross-Flatform Developer ( 2025.04 ~ )
-- [Prater](https://prater.co.kr/) | Cross-Flatform Developer ( 2024.12 - 2025.04 )
+- [FOX Communication (Fox Edu's affiliate)](https://www.foxcom.kr/) | Cross-Platform Developer ( 2025.04 ~ )
+- [Prater](https://prater.co.kr/) | Cross-Platform Developer ( 2024.12 - 2025.04 )
 - [1zLabs](https://1zlabs.com/) | FullStack Developer Intern ( 2024.08 - 2024.10 )
 
 ### Activity
